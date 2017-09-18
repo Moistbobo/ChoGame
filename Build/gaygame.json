@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "gaygame.data.unityweb",
+"asmCodeUrl": "gaygame.asm.code.unityweb",
+"asmMemoryUrl": "gaygame.asm.memory.unityweb",
+"asmFrameworkUrl": "gaygame.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
